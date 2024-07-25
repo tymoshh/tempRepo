@@ -1,3 +1,0 @@
-dogecoin
-KRAKEN_API_KEY
-https://discord.com/api/webhooks/1266126337178075206/Ail2FgyxcSuzmKLNdDdNTNiHe8msS1wodg82YWDUHd8_D_GJWGqmW74WfpUGaIwaTtkD
