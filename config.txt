@@ -1,2 +1,0 @@
-solana
-KRAKEN_API_KEY
